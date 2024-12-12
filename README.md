@@ -25,4 +25,4 @@ O simulador permite ao usuário escolher o número de quadros de página dispon�
 Clone este repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/simulador-algoritmos-substituicao.git
+[git clone https://github.com/seu-usuario/simulador-algoritmos-substituicao.git](https://github.com/GuilhermeAraujo63/Simulador-de-Sistema-de-Arquivos.git)
