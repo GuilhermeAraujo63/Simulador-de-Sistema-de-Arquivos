@@ -46,7 +46,7 @@ java SimuladorPaginas
 
 Isso abrirá a interface gráfica onde você poderá:
 
-Inserir a sequência de páginas a ser carregada.
-Selecionar o número de quadros disponíveis.
-Escolher o algoritmo de substituição de páginas.
-Visualizar os resultados e gráficos.
+- **Inserir a sequência de páginas a ser carregada.
+- **Selecionar o número de quadros disponíveis.
+- **Escolher o algoritmo de substituição de páginas.
+- **Visualizar os resultados e gráficos.
