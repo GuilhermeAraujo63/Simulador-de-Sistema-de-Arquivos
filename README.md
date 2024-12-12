@@ -26,3 +26,27 @@ Clone este repositório para sua máquina local:
 
 ```bash
 [git clone https://github.com/seu-usuario/simulador-algoritmos-substituicao.git](https://github.com/GuilhermeAraujo63/Simulador-de-Sistema-de-Arquivos.git)
+```
+
+### Passo 2: Compilar o Projeto
+
+Abra o terminal e navegue até a pasta do projeto. Em seguida, compile o código utilizando o seguinte comando:
+
+```bash
+javac SimuladorPaginas.java
+```
+
+### Passo 3: Executar o Simulador
+
+Após a compilação, execute o simulador com o comando:
+
+```bash
+java SimuladorPaginas
+```
+
+Isso abrirá a interface gráfica onde você poderá:
+
+Inserir a sequência de páginas a ser carregada.
+Selecionar o número de quadros disponíveis.
+Escolher o algoritmo de substituição de páginas.
+Visualizar os resultados e gráficos.
