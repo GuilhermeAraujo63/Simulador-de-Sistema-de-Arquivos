@@ -46,7 +46,24 @@ java SimuladorPaginas
 
 Isso abrirá a interface gráfica onde você poderá:
 
-- **Inserir a sequência de páginas a ser carregada.
-- **Selecionar o número de quadros disponíveis.
-- **Escolher o algoritmo de substituição de páginas.
-- **Visualizar os resultados e gráficos.
+- Inserir a sequência de páginas a ser carregada.
+- Selecionar o número de quadros disponíveis.
+- Escolher o algoritmo de substituição de páginas.
+- Visualizar os resultados e gráficos.
+
+### Como Usar a Interface Gráfica
+
+1. Sequência de Páginas: Insira uma sequência de números inteiros separados por vírgulas (exemplo: 1,2,3,4,5,1,2,6).
+2. Número de Quadros: Insira o número de quadros disponíveis na memória.
+3. Escolher Algoritmo: Selecione um dos algoritmos de substituição de páginas para realizar a simulação (Aging, Clock, LRU ou NFU).
+4. Rodar Simulação: Clique no botão para iniciar a simulação. O número de falhas de página será calculado e exibido.
+
+## Exemplos de Teste
+
+Você pode testar os algoritmos com diferentes sequências de páginas e número de quadros para observar o impacto nas falhas de página. Alguns exemplos de sequências de páginas:
+
+- Sequência 1: 1,2,3,4,1,2,3,4,1,2,3,4
+- Sequência 2: 1,2,3,1,2,3,4,5,6,1,2,3
+
+### Resultados
+O simulador gera um gráfico com o número de falhas de página ao longo do tempo para cada algoritmo. Esses gráficos ajudam a entender o desempenho de cada algoritmo em diferentes cenários de memória.
